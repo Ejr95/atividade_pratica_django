@@ -8,6 +8,7 @@ class User(models.Model):
     b = models.IntegerField("B")
     
     c = models.IntegerField("C")
+    
     raiz1=0
     raiz2=0
     
